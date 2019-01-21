@@ -1,1 +1,3 @@
-Random text file.
+Line1 
+Line2
+Line3Random text file.
